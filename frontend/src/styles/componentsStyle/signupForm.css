@@ -1,0 +1,12 @@
+.signupContainer{
+      width: 400px;
+      margin: '50px auto';
+      padding: 20;
+      border: '1px solid #f0f0f0';
+      border-radius: 9px;
+      border: solid 0.8px rgb(219, 217, 217);
+      padding: 12px;
+}
+.signupContainer h4 {
+    font-size: 29px;
+}

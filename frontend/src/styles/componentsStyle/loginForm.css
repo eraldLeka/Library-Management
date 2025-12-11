@@ -1,0 +1,12 @@
+.loginContainer{
+      width: 300px;
+      margin: '50px auto';
+      padding: 20;
+      border: '1px solid #f0f0f0';
+      border-radius: 9px;
+      border: solid 0.8px black;
+      padding: 8px;
+}
+.loginContainer h4 {
+    font-size: 29px;
+}
