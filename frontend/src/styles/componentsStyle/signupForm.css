@@ -1,5 +1,6 @@
 .signupContainer{
       width: 400px;
+      height: 100vh;
       margin: '50px auto';
       padding: 20;
       border: '1px solid #f0f0f0';
